@@ -6,9 +6,6 @@ body{
     color: #063E53;
     
 }
-#main{
-    
-}
 #headerfront {
     height: 241px;
     padding: 70px;
@@ -74,9 +71,10 @@ body{
     color:#D1C5B7;
 }
 #mapdiv {
-    width: 100%;
+    width: 80%;
     height: 660px;
     border: 3px solid #063E53;
+    margin-top: 100px;
     margin-right: auto;
     margin-left: auto;
     padding: 2% 0 2% 0;
@@ -91,5 +89,5 @@ a.list, a:visited{
     margin: auto;
     color: #063E53;
     padding: 1% 0 5% 0;
-    font-family: 'Cookie', cursive;
+    font-family: 'Arial';
 }
